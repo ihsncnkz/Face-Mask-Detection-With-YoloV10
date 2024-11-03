@@ -1,0 +1,2 @@
+Hello dear researcher. We continue our series on YOLO where we left off. I have previously shown you how to train YOLO using your own dataset on YOLOv7, YOLOv8, and YOLOv9 and how to make predictions with the trained model at the end of training. In this work, I will focus on YOLOv10 and will experiment on this version, just like in our previous YOLO studies. Previous YOLO studies can also be placed under this section. I hope you like my work. I wish you a good day and good work.
+
